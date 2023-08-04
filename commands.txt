@@ -1,0 +1,14 @@
+git commands:
+
+git init
+git status
+git branch
+git add
+git commit -m "comments"
+git checkout -b "branch name"
+git log
+git log --oneline --pretty
+git restore
+
+
+
